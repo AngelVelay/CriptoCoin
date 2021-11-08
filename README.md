@@ -1,6 +1,6 @@
 # CritoCoin
 
-##Aplicación para consultar el Precio de  Criptomoneda utilizando la API CoinGecko
+## Aplicación para consultar el Precio de  Criptomoneda utilizando la API CoinGecko
 
 
 
@@ -19,7 +19,7 @@
 (https://www.coingecko.com/en/api)
 
 
-##DEMO
+## DEMO
 
 (https://criptomonedas-app.netlify.app/)
 
